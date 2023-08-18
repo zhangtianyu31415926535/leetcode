@@ -61,23 +61,23 @@ def GCD(a: int, b: int) -> int:
 
 下面我们对上面的过程进行一个表形象地讲解，实际上这也是教材里面的讲解方式，我只是照搬过来，增加一下自己的理解罢了。我们来通过一个例子来讲解：
 
-假如我们有一块 1680 米 \* 640 米 的土地，我们希望讲起分成若干正方形的土地，且我们想让正方形土地的边长尽可能大，我们应该如何设计算法呢？
+假如我们有一块 1680 米 \* 640 米 的土地，我们希望将其分成若干正方形的土地，且我们想让正方形土地的边长尽可能大，我们应该如何设计算法呢？
 
 实际上这正是一个最大公约数的应用场景，我们的目标就是求解 1680 和 640 的最大公约数。
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghluj0ysrjj30f104zmxs.jpg)
+![](https://p.ipic.vip/qblo0s.jpg)
 
 将 1680 米 \* 640 米 的土地分割，相当于对将 400 米 \* 640 米 的土地进行分割。 为什么呢？ 假如 400 米 \* 640 米分割的正方形边长为 x，那么有 640 % x == 0，那么肯定也满足剩下的两块 640 米 \* 640 米的。
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghluj6lpjej30g805aaap.jpg)
+![](https://p.ipic.vip/vglto7.jpg)
 
 我们不断进行上面的分割：
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghlujd4rhbj307x08v74i.jpg)
+![](https://p.ipic.vip/noxwrq.jpg)
 
 直到边长为 80，没有必要进行下去了。
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghlujgvkvbj30aa04umx2.jpg)
+![](https://p.ipic.vip/nfbmso.jpg)
 
 ## 实例解析
 

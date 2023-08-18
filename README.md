@@ -1,17 +1,8 @@
 # LeetCode
 
-[![Travis](https://img.shields.io/badge/language-C++-green.svg)]()
-[![Travis](https://img.shields.io/badge/language-Python-red.svg)]()
-[![Travis](https://img.shields.io/badge/language-Java-blue.svg)]()
-[![Travis](https://img.shields.io/badge/language-Go-red.svg)]()
-[![Travis](https://img.shields.io/badge/language-Php-pink.svg)]()
-[![Travis](https://img.shields.io/badge/language-JavaScript-yellow.svg)]()
+[![Travis](https://p.ipic.vip/k4pv1r.jpg)]() [![Travis](https://p.ipic.vip/32nfgh.jpg)]() [![Travis](https://p.ipic.vip/4a36ao.jpg)]() [![Travis](https://p.ipic.vip/fd1f82.jpg)]() [![Travis](https://p.ipic.vip/mhz5uy.jpg)]() [![Travis](https://p.ipic.vip/gp1hvz.jpg)]()
 
-[![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#哪里能找到我)
-[![](https://img.shields.io/badge/公众号-力扣加加-blueviolet)](#哪里能找到我)
-[![](https://img.shields.io/badge/Juejin-掘金-blue)](https://juejin.im/user/58af98305c497d0067780b3b)
-[![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/lu-xiao-13-70)
-[![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://space.bilibili.com/519510412/)
+[![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#哪里能找到我) [![](https://img.shields.io/badge/公众号-力扣加加-blueviolet)](#哪里能找到我) [![](https://img.shields.io/badge/Juejin-掘金-blue)](https://p.ipic.vip/pj4t8y.jpg) [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://p.ipic.vip/n9co7k.jpg) [![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://p.ipic.vip/m7g3to.jpg)
 
 简体中文 | [English](./README.en.md)
 
@@ -23,32 +14,49 @@
 
 我的新书《算法通关之路》出版了。
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gu39d1zb7qj622g0u013a02.jpg)
+![](https://p.ipic.vip/zo8cz5.jpg)
 
-- [实体版购书链接 1](https://union-click.jd.com/jdc?e=618|pc|&p=JF8BAOAJK1olXgEGUV9cAE4VCl8IGloXWgYCV1tcAE8TBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0PG1sWWAcKUFpYFxJSXzI4GAhrA0IDUiM-FjFxQQtKWFx2AlkYElJROEonA24JG1MQWgMEUW5tCEwnQgEIGlkdXAQHUW5cOEsQBmkNElwWXgYGUFxtD0seMzRddVwVWFVWB10PXxtDVDo4K2sWbQECXRMcWgYnM284GGtXMwUKAw5VDEpDA2oBGl4SXwELUF5fCkkQVDtdH1JGX1EAZFxcCU8eMw)
+- [实体版购书链接 1](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAN4JK1olXwUFU1xcAUoRA18IGFMXXgQDUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXFxeCkoTHDZNRwYlQ1J3BB0EWEl0QhkIH1xMBXBlDyQ1TkcbM244G1oUXQ4HU1tbDXsnA2g4STXN67Da8e9B3OGY1uefK1olXQEEUFhYCkgSAWwOHmsSXQ8yDwszD0sSUDtbGAlCDVJVAW5tOEgnBG8BD11nHFQWUixtOEsnAF9KdV5AWQcDB1cPDktEAWpfSwhFXwUDUllVDkMVATxbHVwWbQQDVVpUOHs)
 
 - [实体版购书链接 2](https://union-click.jd.com/jdc?e=618|pc|&p=JF8BAM0JK1olXDYCV1ZfC0kWB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksUC20LGVoRQl9HCANtQDt-RAZPBQFwJ0ZEA1hDWh9wdTB2a1cZbQcyVF9cCEMSBGoOHmslXQEyAjBdCUoWAm4NG14WbQcyVFlYDk4eBG8LG1gUXzYFVFdtUx55BG8NSA9GXlRVBAoKXXsnM2w4HFscEEdQGW5tCHsUMy1mE14WDQcCUVxfWk9EBmkOSQsWDwVSVwpcWEoXUG5aElslXwcDUFdt)
 
 - [电子版购书链接](https://union-click.jd.com/jdc?e=&p=JF8BAL0JK1olXDYAVVhfD04UAl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFkkWBW0PHlgUQl9HCANtcS0SdTFvWVt1X3BkVV4Kc0JxYRtPe1cZbQcyVF9cCEMSBGoOHmslXQEyHzBcOEonA2gKE1oVWwEKXV5cAXsQA2Y4QA57WgYHBwoOCxlAUztfTmslbQUyZG5dOEgnQQFaSQ5FWQYFB1cODhgSVDpaS1hFDwQLUlwJAU5DAWcJHWsXXAcGXW4)
 
-## :blue_book:电子书
+## :blue_book: 电子书
 
 **注意：这里的电子书并不是《算法通关之路》的电子版，而是本仓库内容的电子版！**
 
 [在线阅读地址](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/)
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gm3r7y4dt8j30zx0u0hdt.jpg)
-
 **限时免费下载！后期随时可能收费**
 
 可以去我的公众号《力扣加加》后台回复电子书获取！
 
-<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gfcuzagjalj30p00dwabs.jpg" width="100%">
+<img src="https://p.ipic.vip/h9nm77.jpg" width="100%">
 
 > epub 还是有动图的
 
 另外有些内容只在公众号发布，因此大家觉得内容不错的话，可以关注一下。如果再给 ➕ 个星标就更棒啦！
 
+## 图片加载不出来如何解决？
+
+<https://github.com/fe-lucifer/fanqiang>
+
+## 九章算法班
+
+![](https://p.ipic.vip/iyzbvl.jpg)
+
+九章算法，由北大、清华校友于美国硅谷创办，已帮助数十万 IT 程序员找到高薪 offer! 提供 1 对 1 求职指导、算法指导、前后端项目、简历代笔等服务。
+
+- 推荐[免费ChatGPT网站](https://www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer)，戳此免费使用：[www.lintcode.com/chat-gpt](https://www.lintcode.com/chat-gpt?utm_source=tf-github-lucifer)
+
+- 推荐北大 FB 双料大神的[《九章算法班》](https://www.jiuzhang.com/course/71/?utm_source=tf-github-lucifer2022)，有人靠他连拿 3 个大厂 offer
+
+![](https://p.ipic.vip/fu39bf.jpg)
+
+## 力扣专属折扣
+
+力扣免费题目已经有了很多经典的了，也覆盖了所有的题型，只是很多公司的真题都是锁定的。个人觉得如果你准备找工作的时候，可以买一个会员。另外会员很多leetbook 也可以看，结合学习计划，效率还是蛮高的。如果你要买力扣会员的话，这里有我的专属力扣折扣：https://leetcode.cn/premium/?promoChannel=lucifer (年度会员多送两个月会员，季度会员多送两周会员)
 ## :calendar:《91 天学算法》限时活动
 
 很多教育机构宣传的 7 天，一个月搞定算法面试的，我大概都了解了下，不怎么靠谱。学习算法这东西，还是要靠积累，没有量变是不可能有质变的。还有的人选择看书，这是一个不错的选择。但是很多人选了过时的或者质量差的书，又或者不会去写书中给的练习题，导致效果很差。
@@ -57,19 +65,17 @@
 
 最后送给大家一句话： **坚持下去，会有突然间成长的一天**。
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gq0mm4lscqj313h0r0diy.jpg)
+[点此参与](https://github.com/azl397985856/leetcode/discussions/532)
 
 - 🔥🔥🔥🔥 [活动首页](https://leetcode-solution.cn/91) 🔥🔥🔥🔥
 - [91 第三期讲义 - 二分专题（上）](./thinkings/binary-search-1.md)
 - [91 第三期讲义 - 二分专题（下）](./thinkings/binary-search-2.md)
 
-## 关于我
+## 1V1 辅导
 
-大家也可以加我微信好友进行交流！
+如果大家觉得上面的集体活动效率比较低，我目前也接受 1v1 算法辅导，价格根据你的算法基础以及想要学习的内容而定感兴趣的可以加我微信，备注“算法辅导”，微信号 DevelopeEngineer。
 
-![](https://tva1.sinaimg.cn/large/008i3skNly1gx11szd02ej30e80e8dg3.jpg)
-
-## :octocat:仓库介绍
+## :octocat: 仓库介绍
 
 leetcode 题解，记录自己的 leetcode 解题之路。
 
@@ -85,11 +91,11 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 - 第五部分是计划， 这里会记录将来要加入到以上三个部分内容
 
-## :meat_on_bone:仓库食用指南
+## :meat_on_bone: 仓库食用指南
 
 - 这里有一张互联网公司面试中经常考察的问题类型总结的思维导图，我们可以结合图片中的信息分析一下。
 
-![leetcode-zhihu](https://tva1.sinaimg.cn/large/007S8ZIlly1ghluennxvrj30k00jx0te.jpg)
+![leetcode-zhihu](https://p.ipic.vip/a20o3x.jpg)
 
 （图片来自 leetcode)
 
@@ -110,7 +116,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - 树与图：最近公共祖先、并查集
 - 字符串：前缀树（字典树） ／ 后缀树
 
-我在网上找到一份[《Interview Cheat Sheet》](./assets/cheatsheet.pdf)，这个 PDF 列举了面试的**模板步骤**。，详细指示了如何一步步完成面试。
+我在网上找到一份 [《Interview Cheat Sheet》](./assets/cheatsheet.pdf)，这个 PDF 列举了面试的**模板步骤**。，详细指示了如何一步步完成面试。
 
 这个 pdf 开头就提到了好的代码三个标准：
 
@@ -122,10 +128,6 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 紧接着，列举了 15 算法面试的步骤。比如步骤一：**当面试官提问完后，你需要先下来关键点（之后再下面写注释和代码）** 看完我的感受就是，**面试只要按照这个来做，成功率蹭蹭提升**
 
-## 图片加载不出来如何解决？
-
-https://github.com/fe-lucifer/fanqiang
-
 ## 数据结构与算法的总结
 
 - [数据结构总览](./thinkings/basic-data-structure.md)
@@ -135,8 +137,10 @@ https://github.com/fe-lucifer/fanqiang
 - [堆专题（下）](./thinkings/heap-2.md)
 - [二分专题（上）](./thinkings/binary-search-1.md)
 - [二分专题（下）](./thinkings/binary-search-2.md)
+
 <!-- - [基础算法](./thinkings/basic-algorithm.md) -->
-- [动态规划(重置版)](./thinkings/dynamic-programming.md)
+
+- [动态规划（重置版）](./thinkings/dynamic-programming.md)
 - [大话搜索](./thinkings/search.md)
 - [二叉树的遍历](./thinkings/binary-tree-traversal.md)
 - [回溯](./thinkings/backtrack.md)
@@ -154,7 +158,7 @@ https://github.com/fe-lucifer/fanqiang
 - [蓄水池抽样](./thinkings/reservoid-sampling.md)
 - [单调栈](./thinkings/monotone-stack.md)
 
-## :exclamation:怎么刷 LeetCode？
+## :exclamation: 怎么刷 LeetCode？
 
 - [我是如何刷 LeetCode 的](https://www.zhihu.com/question/280279208/answer/824585814)
 - [算法小白如何高效、快速刷 leetcode？](https://www.zhihu.com/question/321738058/answer/1279464192)
@@ -165,9 +169,11 @@ https://github.com/fe-lucifer/fanqiang
 
 或许是一个可以改变你刷题效率的浏览器扩展插件。
 
-插件地址：https://chrome.google.com/webstore/detail/leetcode-cheatsheet/fniccleejlofifaakbgppmbbcdfjonle?hl=en-US。
+插件地址：<https://chrome.google.com/webstore/detail/leetcode-cheatsheet/fniccleejlofifaakbgppmbbcdfjonle?hl=en-US>。
 
 > 不能访问谷歌商店的朋友可以去我的公众号回复插件获取离线版。强烈推荐大家使用谷歌商店安装， 这样如果有更新可以自动安装，毕竟咱们的插件更新还是蛮快的。
+
+另外大家也可以使用 zerotrac 开发的用于计算力扣中题目分数的网站。这里的分数指的是竞赛分，大家可以根据自己的竞赛分选择稍微比自己竞赛分高一点的题目进行练习，注意这个只是根据通过人数等计算的一个预估分数。地址：https://zerotrac.github.io/leetcode_problem_rating/
 
 ## 精选题解
 
@@ -235,18 +241,21 @@ https://github.com/fe-lucifer/fanqiang
 - [0504. 七进制数](./problems/504.base-7.md)
 - [0575. 分糖果](./problems/575.distribute-candies.md)
 - [0606. 根据二叉树创建字符串](./problems/606.construct-string-from-binary-tree.md)
+- [0661. 图片平滑器](./problems/661.image-smoother.md)
 - [0665. 非递减数列](./problems/665.non-decreasing-array.md)
 - [821. 字符的最短距离](./problems/821.shortest-distance-to-a-character.md) 91
 - [0874. 模拟行走机器人](./problems/874.walking-robot-simulation.md)
 - [1128. 等价多米诺骨牌对的数量](./problems/1128.number-of-equivalent-domino-pairs.md)
 - [1260. 二维网格迁移](./problems/1260.shift-2d-grid.md)
 - [1332. 删除回文子序列](./problems/1332.remove-palindromic-subsequences.md)
+- [2591. 将钱分给最多的儿童](./problems/2591.distribute-money-to-maximum-children.md)
+
 
 ### 中等难度题目合集
 
 中等题目是力扣比例最大的部分，因此这部分我的题解也是最多的。 大家不要太过追求难题，先把中等难度题目做熟了再说。
 
-这部分的题目要不需要我们挖掘题目的内含信息， 将其抽象成简单题目。 要么是一些写起来比较麻烦的题目， 一些人编码能力不行就挂了。因此大家一定要自己做， 即使看了题解”会了“，也要自己码一遍。自己不亲自写一遍，里面的细节永远不知道。
+这部分的题目要不需要我们挖掘题目的内含信息， 将其抽象成简单题目。 要么是一些写起来比较麻烦的题目， 一些人编码能力不行就挂了。因此大家一定要自己做， 即使看了题解 ”会了“，也要自己码一遍。自己不亲自写一遍，里面的细节永远不知道。
 
 以下是我列举的经典题目（带 91 字样的表示出自 **91 天学算法**活动）：
 
@@ -316,7 +325,7 @@ https://github.com/fe-lucifer/fanqiang
 - [0199. 二叉树的右视图](./problems/199.binary-tree-right-side-view.md) 👍
 - [0200. 岛屿数量](./problems/200.number-of-islands.md) 👍
 - [0201. 数字范围按位与](./problems/201.bitwise-and-of-numbers-range.md)
-- [0208. 实现 Trie (前缀树)](./problems/208.implement-trie-prefix-tree.md)
+- [0208. 实现 Trie （前缀树）](./problems/208.implement-trie-prefix-tree.md)
 - [0209. 长度最小的子数组](./problems/209.minimum-size-subarray-sum.md)
 - [0211. 添加与搜索单词 - 数据结构设计](./problems/211.add-and-search-word-data-structure-design.md)
 - [0215. 数组中的第 K 个最大元素](./problems/215.kth-largest-element-in-an-array.md)
@@ -331,6 +340,7 @@ https://github.com/fe-lucifer/fanqiang
 - [0279. 完全平方数](./problems/279.perfect-squares.md)
 - [0309. 最佳买卖股票时机含冷冻期](./problems/309.best-time-to-buy-and-sell-stock-with-cooldown.md)
 - [0322. 零钱兑换](./problems/322.coin-change.md) 👍
+- [0324. 摆动排序 II](./problems/324.wiggle-sort-ii.md)
 - [0328. 奇偶链表](./problems/328.odd-even-linked-list.md)
 - [0331. 验证二叉树的前序序列化](./problems/331.verify-preorder-serialization-of-a-binary-tree.md)
 - [0334. 递增的三元子序列](./problems/334.increasing-triplet-subsequence.md)
@@ -362,8 +372,9 @@ https://github.com/fe-lucifer/fanqiang
 - [0611. 有效三角形的个数](./problems/611.valid-triangle-number.md) 👍
 - [0673. 最长递增子序列的个数](./problems/673.number-of-longest-increasing-subsequence.md)
 - [0686. 重复叠加字符串匹配](./problems/686.repeated-string-match.md)
-- [0718. 最长重复子数组](./problems/718.maximum-length-of-repeated-subarray.md)
+- [0710. 黑名单中的随机数](./problems/710.random-pick-with-blacklist.md)
 - [0714. 买卖股票的最佳时机含手续费](./problems/714.best-time-to-buy-and-sell-stock-with-transaction-fee.md)
+- [0718. 最长重复子数组](./problems/718.maximum-length-of-repeated-subarray.md)
 - [0735. 行星碰撞](./problems/735.asteroid-collision.md) 👍
 - [0754. 到达终点数字](./problems/754.reach-a-number.md)
 - [0785. 判断二分图](./problems/785.is-graph-bipartite.md)
@@ -381,6 +392,7 @@ https://github.com/fe-lucifer/fanqiang
 - [0900. RLE 迭代器](./problems/900.rle-iterator.md)
 - [0911. 在线选举](./problems/911.online-election.md)
 - [0912. 排序数组](./problems/912.sort-an-array.md)
+- [0918. 环形子数组的最大和](./problems/918.maximum-sum-circular-subarray.md) 👍
 - [0932. 漂亮数组](./problems/932.beautiful-array.md)
 - [0935. 骑士拨号器](./problems/935.knight-dialer.md)
 - [0947. 移除最多的同行或同列石头](./problems/947.most-stones-removed-with-same-row-or-column.md)
@@ -396,9 +408,10 @@ https://github.com/fe-lucifer/fanqiang
 - [1023. 驼峰式匹配](./problems/1023.camelcase-matching.md)
 - [1031. 两个非重叠子数组的最大和](./problems/1031.maximum-sum-of-two-non-overlapping-subarrays.md)
 - [1043. 分隔数组以得到最大和](./problems/1043.partition-array-for-maximum-sum.md)
+- [1053. 交换一次的先前排列)](./problems/1053.previous-permutation-with-one-swap.md)
 - [1104. 二叉树寻路](./problems/1104.path-in-zigzag-labelled-binary-tree.md)
 - [1129. 颜色交替的最短路径](./problems/1129.shortest-path-with-alternating-colors.md)
-- [1131.绝对值表达式的最大值](./problems/1131.maximum-of-absolute-value-expression.md)
+- [1131. 绝对值表达式的最大值](./problems/1131.maximum-of-absolute-value-expression.md)
 - [1138. 字母板上的路径](./problems/1138.alphabet-board-path.md)
 - [1186. 删除一次得到子数组最大和](./problems/1186.maximum-subarray-sum-with-one-deletion.md)
 - [1218. 最长定差子序列](./problems/1218.longest-arithmetic-subsequence-of-given-difference.md)
@@ -408,7 +421,7 @@ https://github.com/fe-lucifer/fanqiang
 - [1297. 子串的最大出现次数](./problems/1297.maximum-number-of-occurrences-of-a-substring.md)
 - [1310. 子数组异或查询](./problems/1310.xor-queries-of-a-subarray.md)
 - [1334. 阈值距离内邻居最少的城市](./problems/1334.find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance.md)
-- [1371.每个元音包含偶数次的最长子字符串](./problems/1371.find-the-longest-substring-containing-vowels-in-even-counts.md)
+- [1371. 每个元音包含偶数次的最长子字符串](./problems/1371.find-the-longest-substring-containing-vowels-in-even-counts.md)
 - [1381. 设计一个支持增量操作的栈](./problems/1381.design-a-stack-with-increment-operation.md) 91
 - [1423. 可获得的最大点数](./problems/1423.maximum-points-you-can-obtain-from-cards.md)
 - [1438. 绝对差不超过限制的最长连续子数组](./problems/1438.longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.md)
@@ -416,18 +429,24 @@ https://github.com/fe-lucifer/fanqiang
 - [1574. 删除最短的子数组使剩余数组有序](./problems/1574.shortest-subarray-to-be-removed-to-make-array-sorted.md)
 - [1589. 所有排列中的最大和](./problems/1589.maximum-sum-obtained-of-any-permutation.md)
 - [1631. 最小体力消耗路径](./problems/1631.path-with-minimum-effort.md)
+- [1638. 统计只差一个字符的子串数目](./problems/1638.count-substrings-that-differ-by-one-character.md)
 - [1658. 将 x 减到 0 的最小操作数](./problems/1658.minimum-operations-to-reduce-x-to-zero.md)
 - [1697. 检查边长度限制的路径是否存在](./problems/1697.checking-existence-of-edge-length-limited-paths.md)
-- [1737. 满足三条件之一需改变的最少字符数](./problems/1737.change-minimum-characters-to-satisfy-one-of-three-conditions.md)
+- [1737. 满足三条件之一需改变的最少字符数](./problems/1737.change-minimum-characters-to-satisfy-one-of-three-conditions.md) 👍
+- [1770. 执行乘法运算的最大分数](./problems/1770.maximum-score-from-performing-multiplication-operations.md) 👍 91
 - [1834. 单线程 CPU](./problems/1834.single-threaded-cpu.md)
 - [1899. 合并若干三元组以形成目标三元组](./problems/1899.merge-triplets-to-form-target-triplet.md) 👍
 - [1904. 你完成的完整对局数](./problems/1904.the-number-of-full-rounds-you-have-played.md)
 - [1906. 查询差绝对值的最小值](./problems/1906.minimum-absolute-difference-queries.md)
 - [2007. 从双倍数组中还原原数组](./problems/2007.find-original-array-from-doubled-array.md)
 - [2008. 出租车的最大盈利](./problems/2008.maximum-earnings-from-taxi.md)
+- [2592. 最大化数组的伟大值](./problems/2592.maximize-greatness-of-an-array.md)
+- [2593. 标记所有元素后数组的分数](./problems/2593.find-score-of-an-array-after-marking-all-elements.md)
+- [2817. 限制条件下元素之间的最小绝对差](./problems/2817.minimum-absolute-difference-between-elements-with-constraint.md)
 - [5935. 适合打劫银行的日子](./problems/5935.find-good-days-to-rob-the-bank.md)
 - [5936. 引爆最多的炸弹](./problems/5936.detonate-the-maximum-bombs.md)
 - [5965. 相同元素的间隔之和](./problems/5965.intervals-between-identical-elements.md)
+- [6021. 字符串中最多数目的子字符串](./problems/6201.maximize-number-of-subsequences-in-a-string.md)
 
 ### 困难难度题目合集
 
@@ -521,6 +540,7 @@ https://github.com/fe-lucifer/fanqiang
 - [1494. 并行课程 II](./problems/1494.parallel-courses-ii.md)
 - [1521. 找到最接近目标值的函数值](./problems/1521.find-a-value-of-a-mysterious-function-closest-to-target.md)
 - [1526. 形成目标数组的子数组最少增加次数](./problems/1526.minimum-number-of-increments-on-subarrays-to-form-a-target-array.md)
+- [1639. 通过给定词典构造目标字符串的方案数](./problems/1639.number-of-ways-to-form-a-target-string-given-a-dictionary.md) new
 - [1649. 通过指令创建有序数组](./problems/1649.create-sorted-array-through-instructions.md)
 - [1671. 得到山形数组的最少删除次数](./problems/1671.minimum-number-of-removals-to-make-mountain-array.md)
 - [1707. 与数组中元素的最大异或值](./problems/5640.maximum-xor-with-an-element-from-array.md)
@@ -536,6 +556,10 @@ https://github.com/fe-lucifer/fanqiang
 - [2025. 分割数组的最多方案数](./problems/2025.maximum-number-of-ways-to-partition-an-array.md)
 - [2030. 含特定字母的最小子序列](./problems/2030.smallest-k-length-subsequence-with-occurrences-of-a-letter.md)
 - [2102. 序列顺序查询](./problems/2102.sequentially-ordinal-rank-tracker.md)
+- [2209. 用地毯覆盖后的最少白色砖块](./problems/2209.minimum-white-tiles-after-covering-with-carpets.md) 👍
+- [2281. 巫师的总力量和](./problems/2281.sum-of-total-strength-of-wizards.md)
+- [2306. 公司命名](./problems/2306.naming-a-company.md) 枚举优化好题
+- [5254. 卖木头块](./problems/5254.selling-pieces-of-wood.md) 动态规划经典题
 - [5999. 统计数组中好三元组数目](./problems/5999.count-good-triplets-in-an-array.md) 👍
 
 ## :trident: &nbsp;anki 卡片
@@ -550,28 +574,22 @@ anki - 文件 - 导入 - 下拉格式选择“打包的 anki 集合”，然后�
 
 更多关于 anki 使用方法的请查看 [anki 官网](https://apps.ankiweb.net/)
 
-目前已更新卡片一览（仅列举正面）：
+## 关于我
 
-- 二分法解决问题的关键点是什么，相关问题有哪些？
-- 如何用栈的特点来简化操作， 涉及到的题目有哪些？
-- 双指针问题的思路以及相关题目有哪些？
-- 滑动窗口问题的思路以及相关题目有哪些？
-- 回溯法解题的思路以及相关题目有哪些？
-- 数论解决问题的关键点是什么，相关问题有哪些？
-- 位运算解决问题的关键点是什么，相关问题有哪些？
+大家也可以加我微信好友进行交流！
 
-> 已加入的题目有：#2 #3 #11
+![](https://p.ipic.vip/wciz1n.jpg)
 
-## :chart_with_upwards_trend:大事件
+## :chart_with_upwards_trend: 大事件
 
 - 2019-07-10 ：[纪念项目 Star 突破 1W 的一个短文](./thanksGiving.md)， 记录了项目的"兴起"之路，大家有兴趣可以看一下，如果对这个项目感兴趣，请**点击一下 Star**， 项目会**持续更新**，感谢大家的支持。
 
 - 2019-10-08: [纪念 LeetCode 项目 Star 突破 2W](./thanksGiving2.md)，并且 Github 搜索“LeetCode”，排名第一。
 
 - 2020-04-12: [项目突破三万 Star](./thanksGiving3.md)。
-- 2020-04-14: 官网`力扣加加`上线啦 💐💐💐💐💐，有专题讲解，每日一题，下载区和视频题解，后续会增加更多内容，还不赶紧收藏起来？地址：http://leetcode-solution.cn/
+- 2020-04-14: 官网`力扣加加`上线啦 💐💐💐💐💐，有专题讲解，每日一题，下载区和视频题解，后续会增加更多内容，还不赶紧收藏起来？地址：<http://leetcode-solution.cn/>
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ghluemaoj3j30z90dtmy5.jpg)
+![](https://p.ipic.vip/98p19b.jpg)
 
 - 2021-02-23: star 破四万
 
@@ -580,9 +598,9 @@ anki - 文件 - 导入 - 下拉格式选择“打包的 anki 集合”，然后�
 - 如果有想法和创意，请提 [issue](https://github.com/azl397985856/leetcode/issues) 或者进群提
 - 如果想贡献增加题解或者翻译， 可以参考 [贡献指南](./CONTRIBUTING.md)
   > 关于如何提交题解，我写了一份 [指南](./templates/problems/1014.best-sightseeing-pair.md)
-- 如果需要修改项目中图片，[这里](./assets/drawio/) 存放了项目中绘制图的源代码， 大家可以用 [draw.io](https://www.draw.io/) 打开进行编辑。
+- 如果需要修改项目中图片，[这里](./assets/drawio/) 存放了项目中绘制图的源代码，大家可以用 [draw.io](https://www.draw.io/) 打开进行编辑。
 
-## :love_letter:鸣谢
+## :love_letter: 鸣谢
 
 感谢为这个项目作出贡献的所有 [小伙伴](https://github.com/azl397985856/leetcode/graphs/contributors)
 
